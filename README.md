@@ -49,22 +49,51 @@ Every fighter has 5 special moves, a super, an ultimate with its own cinematic, 
 
 ## 🕹️ Controls
 
-- **Controllers: fully supported.** Plug in up to two (Xbox, PlayStation or any standard pad). They work in every menu, and pads **rumble** on hits, blocks, throws and K.O.s.
+- **Controllers: fully supported.** Plug in up to two Xbox, PlayStation or other standard pads. They work in every menu, and pads **rumble** on hits, blocks, throws and K.O.s.
+- **The game shows your buttons:** it detects whether you're on a keyboard, an Xbox controller or a PlayStation controller, and every menu, move list and the controls screen show that device's buttons. Switch any time.
 - **Keyboard:** both players can share one keyboard. Player 2 doesn't need a numpad.
-- Three control styles: **MK** (front/back punch and kick), **Simple** (easy specials) and **Pro**.
+- Three control styles: **MK** (front/back punch and kick, the default), **Simple** (easy specials) and **Pro**.
 - **F11** fullscreen · **M** mute · full move lists in the game under *How to play* and in the pause menu.
 
-| Controller | MK style |
-|---|---|
-| D-pad / left stick | Move |
-| X · Y | Front punch · Back punch |
-| A · B | Front kick · Back kick |
-| RB / RT | Block |
-| LB / LT | Super / Ultimate |
-| L3 / R3 | Throw |
-| Start | Pause |
+These tables are for the default **MK** style.
 
-*(Xbox button names. On PlayStation: X = Square, Y = Triangle, A = Cross, B = Circle.)*
+### ⌨️ Keyboard
+
+| Action | Player 1 | Player 2 |
+|---|---|---|
+| Move · jump · crouch | `A` `D` · `W` · `S` | `←` `→` · `↑` · `↓` |
+| Front punch · back punch | `J` · `I` | `.` · `;` |
+| Front kick · back kick | `K` · `L` | `/` · `'` |
+| Block (hold) | `O` | `]` or `Right Shift` |
+| Super / Ultimate | `U` | `[` |
+| Grab | `Space` | `\` or `Num0` |
+| Pause · move list | `Esc` | `Esc` |
+
+### 🟢 Xbox controller
+
+| Action | Button |
+|---|---|
+| Move · jump · crouch | D-pad or left stick |
+| Front punch · back punch | **X** · **Y** |
+| Front kick · back kick | **A** · **B** |
+| Block (hold) | **RB** or **RT** |
+| Super / Ultimate | **LB** or **LT** |
+| Grab | **LS** or **RS** (click a stick) |
+| Pause · move list | **Menu** |
+| Menus | **A** select · **B** back |
+
+### 🔵 PlayStation controller
+
+| Action | Button |
+|---|---|
+| Move · jump · crouch | D-pad or left stick |
+| Front punch · back punch | **□ Square** · **△ Triangle** |
+| Front kick · back kick | **✕ Cross** · **○ Circle** |
+| Block (hold) | **R1** or **R2** |
+| Super / Ultimate | **L1** or **L2** |
+| Grab | **L3** or **R3** (click a stick) |
+| Pause · move list | **Options** |
+| Menus | **✕** select · **○** back |
 
 ## ✨ Also in the game
 
