@@ -11,22 +11,22 @@ Squad Wipe is a 2D fighting game where every fighter is one of us. Each one has 
   <img src="screenshots/fight.jpg" alt="RESPAWN and SILK DRAGON squaring up on the Golden Hour rooftop" width="100%">
 </p>
 
-## â¬‡ï¸ Download
+## ⬇️ Download
 
 **[Get the latest version here](https://github.com/skandasandy24/SQUAD-WIPE-GAME/releases/latest)**. Download `SquadWipe-Setup-x.x.x.exe` from *Assets*.
 
-1. Run the installer. If Windows says **"Windows protected your PC"**, click **More info â†’ Run anyway**. That's only because the game isn't code-signed.
+1. Run the installer. If Windows says **"Windows protected your PC"**, click **More info → Run anyway**. That's only because the game isn't code-signed.
 2. Choose where to install, finish, and open **Squad Wipe** from the desktop or Start menu.
 
-Windows 10/11 Â· about 300 MB Â· plays offline (it only goes online to check for updates).
+Windows 10/11 · about 300 MB · plays offline (it only goes online to check for updates).
 
-## ðŸ”„ Updates
+## 🔄 Updates
 
 You never need to download it again. When a new version is out, the game downloads it in the background and shows **UPDATE READY**:
 - click **RESTART NOW** (or press **F8**, or hold **Select + Start** on a controller), or
 - just keep playing: it installs when you close the game.
 
-## ðŸ¥Š The squad
+## 🥊 The squad
 
 | Fighter | Who | Style | Ultimate |
 |---|---|---|---|
@@ -40,25 +40,25 @@ You never need to download it again. When a new version is out, the game downloa
 
 Every fighter has 5 special moves, a super, an ultimate with its own cinematic, and a home stage.
 
-## ðŸŽ® Modes
+## 🎮 Modes
 
 - **Arcade**: beat the other six in a row. Each fight is harder than the last.
 - **VS CPU**: Easy, Normal or Hard.
 - **VS Friend**: two players on one PC, with a running head-to-head record.
 - **Training**: dummy settings, hitbox view, input display and frame advantage.
 
-## ðŸ•¹ï¸ Controls
+## 🕹️ Controls
 
 - **Controllers: fully supported.** Plug in up to two (Xbox, PlayStation or any standard pad). They work in every menu, and pads **rumble** on hits, blocks, throws and K.O.s.
 - **Keyboard:** both players can share one keyboard. Player 2 doesn't need a numpad.
 - Three control styles: **MK** (front/back punch and kick), **Simple** (easy specials) and **Pro**.
-- **F11** fullscreen Â· **M** mute Â· full move lists in the game under *How to play* and in the pause menu.
+- **F11** fullscreen · **M** mute · full move lists in the game under *How to play* and in the pause menu.
 
 | Controller | MK style |
 |---|---|
 | D-pad / left stick | Move |
-| X Â· Y | Front punch Â· Back punch |
-| A Â· B | Front kick Â· Back kick |
+| X · Y | Front punch · Back punch |
+| A · B | Front kick · Back kick |
 | RB / RT | Block |
 | LB / LT | Super / Ultimate |
 | L3 / R3 | Throw |
@@ -66,6 +66,6 @@ Every fighter has 5 special moves, a super, an ultimate with its own cinematic, 
 
 *(Xbox button names. On PlayStation: X = Square, Y = Triangle, A = Cross, B = Circle.)*
 
-## âœ¨ Also in the game
+## ✨ Also in the game
 
-Throw escapes Â· combo counter Â· PERFECT rounds Â· intro and victory lines Â· rivalry lines on the versus screen Â· announcer Â· mirror-match markers.
+Throw escapes · combo counter · PERFECT rounds · intro and victory lines · rivalry lines on the versus screen · announcer · mirror-match markers.
