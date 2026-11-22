@@ -1,6 +1,6 @@
-﻿# SQUAD WIPE
+﻿<p align="center"><img src="screenshots/banner.png" alt="SQUAD WIPE" width="100%"></p>
 
-**7 friends. 1 group chat. Somebody's getting wiped.**
+<p align="center"><b>7 friends. 1 group chat. Somebody's getting wiped.</b></p>
 
 Squad Wipe is a 2D fighting game where every fighter is one of us. Each one has their own moves, combos, a special meter that works differently for every character, and a full ultimate cutscene. Fight the CPU, fight each other on one keyboard or with controllers, or run Arcade and beat the whole squad.
 
