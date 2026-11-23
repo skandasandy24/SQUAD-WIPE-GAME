@@ -22,9 +22,11 @@ Windows 10/11 · about 300 MB · plays offline (it only goes online to check for
 
 ## 🔄 Updates
 
-You never need to download it again. When a new version is out, the game downloads it in the background and shows **UPDATE READY**:
+You never need to download it again. When a new version is out, the game downloads it in the background and shows **UPDATE READY**, at the top of the screen and on the main menu:
 - click **RESTART NOW** (or press **F8**, or hold **Select + Start** on a controller), or
 - just keep playing: it installs when you close the game.
+
+**Main menu → Updates** shows your version and lets you **Check for updates** right away, or **Reinstall latest version** if something's broken (it downloads the newest version again and reinstalls it in place).
 
 ## 🥊 The squad
 
@@ -68,6 +70,7 @@ These tables are for the default **MK** style.
 | Super / Ultimate | `U` | `[` |
 | Grab | `Space` | `\` or `Num0` |
 | Pause · move list | `Esc` | `Esc` |
+| In pause: quit to menu | `Q` | `Q` |
 
 ### 🟢 Xbox controller
 
@@ -80,6 +83,7 @@ These tables are for the default **MK** style.
 | Super / Ultimate | **LB** or **LT** |
 | Grab | **LS** or **RS** (click a stick) |
 | Pause · move list | **Menu** |
+| In pause | **B** back to the fight · **Y** quit to menu |
 | Menus | **A** select · **B** back |
 
 ### 🔵 PlayStation controller
@@ -93,6 +97,7 @@ These tables are for the default **MK** style.
 | Super / Ultimate | **L1** or **L2** |
 | Grab | **L3** or **R3** (click a stick) |
 | Pause · move list | **Options** |
+| In pause | **○** back to the fight · **△** quit to menu |
 | Menus | **✕** select · **○** back |
 
 ## ✨ Also in the game
